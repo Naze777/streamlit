@@ -46,6 +46,5 @@ class Home:
             with text_col:
                 st.subheader("Bärı öz Kezegımen - hoverol LYRIC VIDEO")
                 st.markdown("[Watch Video](https://www.youtube.com/watch?v=G7Kid0UM0TM&ab_channel=hoverol)")
-        with st.
             
             
