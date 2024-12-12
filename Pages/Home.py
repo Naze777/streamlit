@@ -28,4 +28,4 @@ class Home:
                 st.write("[My Spotify](https://open.spotify.com/artist/6M7tZTg2MGpXU4mtVWo4CU)")
             with right_column:
                 st_lottie(lottie_animation, height=300, key="coding")
-                st.image("img/saintropez.png")
+                st.image("img/usa.png")
