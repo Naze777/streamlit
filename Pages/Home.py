@@ -17,15 +17,15 @@ class Home:
                 st.write(
                         """
                         My favorite artists is:
-                        1. Ken Carson
-                        Destroy Lonely
-                        Playboi Carti
-                        Travis Scott
-                        Che
+                        - Ken Carson
+                        - Destroy Lonely
+                        - Playboi Carti
+                        - Travis Scott
+                        - Che
                         """
                 )
                 st.write("and more opium songs")
-                st.write("[My Spotify](https://open.spotify.com/artist/6M7tZTg2MGpXU4mtVWo4CU):music:")
+                st.write("[My Spotify](https://open.spotify.com/artist/6M7tZTg2MGpXU4mtVWo4CU)")
             with right_column:
                 st_lottie(lottie_animation, height=300, key="coding")
                 st.image("img/saintropez.png")
