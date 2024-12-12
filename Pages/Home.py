@@ -29,3 +29,23 @@ class Home:
             with right_column:
                 st_lottie(lottie_animation, height=300, key="coding")
                 st.image("img/usa.png")
+        with st.container():
+            st.write("---")
+            st.header("My Clips")
+            st.write("###")
+            image_col, text_col = st.columns((1, 2))
+            with image_col:
+                st.image("img/vid1.png")
+            with text_col:
+                st.subheader("Bärı öz Kezegımen - hoverol (video ver) prod. by yngkerozence")
+                st.markdown("[Watch Video](https://youtu.be/27egNzulvr8?si=dJJtIjkk_6GaY1fg)")
+        with st.container():
+            image_col, text_col = st.columns((1, 2))
+            with image_col:
+                st.image("img/vid2.png")
+            with text_col:
+                st.subheader("Bärı öz Kezegımen - hoverol LYRIC VIDEO")
+                st.markdown("[Watch Video](https://www.youtube.com/watch?v=G7Kid0UM0TM&ab_channel=hoverol)")
+        with st.
+            
+            
