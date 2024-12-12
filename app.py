@@ -29,7 +29,7 @@ styles = {
         "padding": "0.4375rem 0.625rem",
     },
     "active": {
-        "background-color": "#A0A000",
+        "background-color": "#000000",
         "color": "var(--text-color)",
         "font-weight": "normal",
         "padding": "14px",
