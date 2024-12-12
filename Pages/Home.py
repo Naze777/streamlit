@@ -6,7 +6,7 @@ class Home:
         pass
     def app(self):
         with st.container():
-            lottie_animation = "https://lottie.host/91be4f3b-2f30-4b1f-bb78-5acfb14060f7/4P4uMo4mp1.json"
+            lottie_animation = "https://lottie.host/56df1a93-f1ab-41e8-8b24-d7d477086d3d/yhuqk6lLIG.json"
             st.subheader('Hi, my name is Aikyn')
         with st.container():
             st.write("---")
