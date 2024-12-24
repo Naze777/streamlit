@@ -17,10 +17,10 @@ class Home:
                 st.write(
                         """
                         My favorite artists is:
-                        - Ken Carson
-                        - Destroy Lonely
+                        - 4n Way
+                        - Lil Uzi Vert
                         - Playboi Carti
-                        - Travis Scott
+                        - YN Jay
                         - Che
                         """
                 )
